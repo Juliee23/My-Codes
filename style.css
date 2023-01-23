@@ -1,0 +1,15 @@
+h1 h2 {
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+  background-color: aquamarine;
+}
+.container {
+  opacity: 1;
+  width: 50%;
+  font-family: "Carter One", cursive;
+  margin-top: 60px;
+}
+p {
+  font-family: "Carter One", cursive;
+}
